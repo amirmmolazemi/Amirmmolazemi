@@ -1,15 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on React Js
+⚡ I am 17 years old and i am one of Students at AmirKabir High School in Mashhad. i am not a big fan of backEnd developing but maybe oneday i might try that (For fun). if you want to talk with me you can text me in Telegram or Send me Email.
 <br>
-👯 I’m looking to collaborate on Web Developing
 <br>
-🤝 I’m looking for help with React Js
+🔭 I am currently working on React Js
 <br>
-🌱 I’m currently learning React JS
+<br>
+🌱 I am currently learning React JS and to be honest, i like to check out nextJs and also Node js with express
+<br>
 <br>
 💬 You can have a communication with me in socials
 <br>
-⚡ I'm 17 years old and i am one of Students at AmirKabir High School in Mashhad
+<br>
+
 
 
 ## 🌐 Socials:
