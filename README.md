@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I am a frontend developer with a passion for creating engaging and responsive user interfaces.<br><br>🔭 I am currently working on React and Next.js<br><br>🌱 I am currently learning express.js to work as a Fullstack Software developer<br><br>💬 You can contact me whenever you want<br>
+⚡ I am a frontend developer with a passion for creating engaging and responsive user interfaces.<br><br>🔭 I am currently working on vue.js but i still follow react<br><br>💬 You can contact me whenever you want<br>
 
 
 ## 🌐 Socials:
